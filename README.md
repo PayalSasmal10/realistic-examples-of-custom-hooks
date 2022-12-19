@@ -1,0 +1,1 @@
+This is more realistic way to create custom react hooks.
